@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ]
+  ],
+  "legacy_uid": "16c265d8-de89-1fbe-88d7-c0f0329d09ed",
+  "instructors": {
+    "content": [
+      "d8589be4-d589-9716-08b9-2d6bf47551e9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "789bdc29-5d5f-f9dc-22f1-639cb3023551",
+    "website": "15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003"
+  },
+  "course_title": "Information Technology as an Integrating Force in Manufacturing",
+  "course_description": "In virtually every industry and every firm, information technology is driving change, creating opportunities and challenges. Leaders who don't understand at least the fundamentals of information systems will be at a strategic disadvantage. This course provides broad coverage of technology concepts and trends underlying current and future developments in information technology, and fundamental principles for the effective use of computer-based information systems. There will be a special emphasis on manufacturing. Information Systems topics that will be covered include networks and distributed computing, including the World Wide Web, hardware and operating systems, software development tools and processes, relational databases, security and cryptography, enterprise applications, B2B, the semantic web and electronic commerce. Sloan LFM students with an interest in Information Systems are encouraged to register for this course.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.566",
+  "course_image_thumbnail": {
+    "content": "5437b910-e6c6-3791-e86b-dacef36825d9",
+    "website": "15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "1c706ab0-9402-42c7-ac63-0815a6eda2ba",
+  "site_short_id": "15.566-spring-2003",
+  "site_url_path": "courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003",
+  "title": "Course Metadata"
+}
