@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/57df8217e6f063ef8ca406dfd5bf3ea4_19lnsecurity566handout1.pdf
 file_size: 981953
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

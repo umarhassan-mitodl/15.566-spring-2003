@@ -5,6 +5,8 @@ description: '[Lecture notes] Section 7 of 25: Designing an Industry-wide Inform
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/e0c377287c0cbee5172b879e6f3b74cd_7networkslides.pdf
 file_size: 463277
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

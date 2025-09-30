@@ -5,6 +5,8 @@ description: 'Class Slides: Section 5 of 24. Electronic Markets and Supply Chang
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/dd54365142013854c57a6ce6ec25d6f8_5baxterebusinessbnv4.pdf
 file_size: 38744
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
