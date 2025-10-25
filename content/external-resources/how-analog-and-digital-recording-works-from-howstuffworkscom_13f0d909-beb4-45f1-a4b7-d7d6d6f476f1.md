@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://entertainment.howstuffworks.com/analog-digital.htm
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: How Analog and Digital Recording Works, from HowStuffWorks.com

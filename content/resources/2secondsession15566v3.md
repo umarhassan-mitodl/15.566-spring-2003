@@ -4,8 +4,6 @@ description: 'Session 2 of 25: Should the General Manager Care to Learn IT?'
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/5980492fe48c21f199a73f9bbf6d9164_2secondsession15566v3.pdf
 file_size: 190652
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

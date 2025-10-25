@@ -4,8 +4,6 @@ description: 'Session 1 of 25: Course Introduction'
 file: /courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/f9ab12ea6e606557e6d3293a327d9f03_1firstsession15566v1.pdf
 file_size: 233267
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
